@@ -7,7 +7,7 @@ import gallery1 from '@/assets/img/gallery11.png'
 <template>
   <div class="bg-[#A9A99D] bg-opacity-20">
 <div class="xl:mx-[120px] lg:mx-[60px] md:mx-[40] sm:mx-0 ">
-    <div class="bg-[url('src/assets/img/banner2.png')] bg-no-repeat bg-cover bg-bottom w-full h-[800px] flex items-center justify-center ">
+    <div class="bg-[url('@/assets/img/banner2.png')] bg-no-repeat bg-cover bg-bottom w-full h-[800px] flex items-center justify-center ">
   <div class="text-center text-[#800020] bg-[#F5F5DC] bg-opacity-35 px-4 py-2">
     <h1 class="text-5xl font-playfair font-semibold pd-2">La Couture`s </h1>
     <p class="text-2xl font-playfair font-semibold ">Explore our collection of elegant designs and enchanting decors, crafted for <br/>unforgettable moments.</p>
