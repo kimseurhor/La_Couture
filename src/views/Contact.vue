@@ -13,7 +13,7 @@ const submitform = () => {
 <template>
 <section class="bg-[#F7F7EA] ">
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mx-[300px] ">
-<img src="@/assets/img/contactus.png" alt="contact us image" class="w-[500px] h-[400px] object-cover flex items-center justify-center ">
+<img src="@/assets/img/contactUs.png" alt="contact us image" class="w-[500px] h-[400px] object-cover flex items-center justify-center ">
 <div class=" flex flex-col items-center justify-center font-playfair text-[45px] font-meduim">Have a Question?<br>Call us at: <br>
     <a href="tel:+855123456789" class="hover:underline">+855-123-456-789</a></div>
 </div>
