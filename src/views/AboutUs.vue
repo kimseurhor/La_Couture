@@ -23,7 +23,7 @@
       </div>
 
       <div class="bg-[#F5F5DC] sshadow-md rounded-lg p-6 text-center flex flex-col items-center">
-        <img src="@/assets/img/khmer.png" alt="Khmer Tradition" class="mb-4">
+        <img src="@/assets/img/traddition.png" alt="Khmer Tradition" class="mb-4">
         <h3 class="text-lg font-bold font-playfair">Khmer Tradition</h3>
         <p class="font-raleway">We honor Cambodia's cultural heritage by infusing meaningful Khmer elements into our creations.</p>
       </div>
